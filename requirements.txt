@@ -1,0 +1,7 @@
+opencv-python
+ffmpeg-python
+torch
+transformers
+Pillow
+pyttsx3
+tk
